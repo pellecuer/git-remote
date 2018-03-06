@@ -1,0 +1,329 @@
+    1  sudo apt-get update
+    2  sudo apt-get install openssh-server
+    3  exit
+    4  ll
+    5  sudo apt update
+    6  sudo apt upgrade
+    7  exit
+    8  sudo su
+    9  ll
+   10  cd Téléchargements/
+   11  ll
+   12  cd ..
+   13  mysql
+   14  sudo apt install apache2 php mysql-server libapache2-mod-php php-mysql
+   15  sudo apt install php-curl php-gd php-intl php-json php-mbstring php-mcrypt php-xml php-zip
+   16  cd /etc/php/7.2/apache2
+   17  php -S localhost:8000
+   18  nano /etc/php/7.2/apache2
+   19  nano /etc/php/7.2/apache2/php.ini
+   20  cd ..
+   21  cd /etc/php/7.2/apache2
+   22  php -S localhost:8000
+   23  cd ..
+   24  cd /etc/php/7.1/cli/
+   25  php -S localhost:8000
+   26  cd /etc/php/7.2/apache2/
+   27  cd /etc/php/7.1/apache2/
+   28  nano etc/php.ini
+   29  ls etc
+   30  cd etc
+   31  cd ..
+   32  cd /
+   33  cd etc
+   34  cd php
+   35  cd 7.2
+   36  ls
+   37  cd 7.0
+   38  cd apache2
+   39  nano php.ini
+   40  sudo nano php.ini
+   41  sudo service apache2 restart
+   42  php -S localhost:8000
+   43  cd
+   44  php -S localhost:8000
+   45  cd /etc/php/7.0/apache2
+   46  ls
+   47  cd ..
+   48  cd..
+   49  cd ..
+   50  cd etc
+   51  cd /php/
+   52  cd php
+   53  cd 7.0
+   54  cd apache2
+   55  ls
+   56  cd ..
+   57  ls
+   58  cd ..
+   59  clear
+   60  cd clmystery-master
+   61  ls
+   62  cat instructions
+   63  cat hint1
+   64  head -n 20 people
+   65  head -n 20 hint1
+   66  ls
+   67  head -n 20 hint1
+   68  ls
+   69  cd mystery
+   70  head -20 people
+   71  cd streets
+   72  ls
+   73  cat buckingham_palace
+   74  cd cadbury_road
+   75  cat Abbot_street
+   76  cat Abbot_Street
+   77  cat hemenway_street
+   78  cat Hemmenway_Street
+   79  head -390
+   80  head n-390
+   81  cat Abbot_Street
+   82  cd ..
+   83  ls
+   84  grep CLUE crimescene 
+   85  cd --
+   86  cd /clmystery-master
+   87  cd clmystery-master
+   88  ls
+   89  cd mystery
+   90  grep annabel people
+   91  grep Annabel people
+   92  cd vehicles
+   93  cat Vehicles
+   94  cat vehicles
+   95  cd interviews
+   96  ls
+   97  cd
+   98  cd.
+   99  cd .
+  100  cd /clmystery
+  101  cd clmystery-master/
+  102  cd /mystery
+  103  cd mystery/
+  104  cat streets/
+  105  cat streets/Hart_Place | grep Annabel
+  106  grep Annabel people
+  107  head n-40 streets
+  108  head -n 40 streets/Hart_Place | tail -n 1
+  109  head -n 179 streets/Buckingham_place | tail -n1
+  110  head -n 179 streets/Buckingham_Place | tail -n1
+  111  cd interviews
+  112  cat interview-47246024
+  113  cat interview-699607
+  114  cd .
+  115  cd /.
+  116  cd clmystery-master/
+  117  cd /clmystery-master/mystery
+  118  ls
+  119  cd /clmystery-master/
+  120  cd /clmystery-master
+  121  cd /clmystery-master/
+  122  cd /.
+  123  cd /clmystery-master
+  124  cd clmystery-master
+  125  cd clmystery-master/
+  126  cd clmystery-master
+  127  ls
+  128  cd home
+  129  ls
+  130  cd/.
+  131  cd /.
+  132  cd /root
+  133  ls
+  134  cd /home
+  135  ls
+  136  cd /media
+  137  cd /.
+  138  cd /home
+  139  cd /clmystery-master
+  140  cd /.
+  141  cd exos
+  142  cd /exos
+  143  cd
+  144  ls
+  145  cd clymystery-master
+  146  cd /clmystery-master
+  147  ls
+  148  cd /clmystery-master
+  149  clmystery-master
+  150  ls
+  151  cd /clmystery-master/
+  152  cd clmystery
+  153  cd /clmystery-master
+  154  clmystery-master
+  155  cat /clmystery-master
+  156  ls
+  157  cd clmystery-master/
+  158  cd
+  159  cd /clmystery-master
+  160  cd clmystery-master/
+  161  ls
+  162  cd mystery/
+  163  grep -A 5 "L337" mystery/vehicles
+  164  cd/.
+  165  cd /.
+  166  cd
+  167  cd clmystery-master
+  168  grep -A "L337" mystery/vehicles
+  169  grep -A 5 "L337" mystery/vehicles
+  170  cd mystery/
+  171  ls
+  172  cd memberships/
+  173  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Joe Germuska"
+  174  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Jeremy Bowers"
+  175  echo Jeremy Bowers
+  176  history > mon_historique.log
+  177  clear
+  178  cd..
+  179  cd ..
+  180  sudo apt-get update
+  181  sudo apt-get install curl
+  182  curl --version
+  183  curl -I http://www.actipack.eu/fr/erreur-404
+  184  curl -I http://www.u-bourgogne.fr/toute-lactualite/erreur-404-page-non-trouvee.html
+  185  curl -I http://www.csfp.nl.ca/erreur-404/
+  186  curl -I http://icube.unistra.fr/erreur-404/
+  187  curl -I https://lesmarsouins.cielavillage.fr/en/404-erreur-404.html
+  188  curl -I https://lesmarsouins.cielavillage.fr/en//404-erreur-404.html
+  189  curl -I https://lesmarsouins.cielavillage.fr/404-erreur-404.html
+  190  curl -I https://lesmarsouins.cielavillage.fr/4rtrtrt04-erreur-404.html
+  191  curl -I http://www.venez.fr/nom-de-domaine-gratuit.fr.html?name=boursorama&domain=0rg.fr
+  192  curl -I Redirect 301 yahoo.fr http://www.yakaferci.com/redirection/
+  193  curl -I https://www.google.fr/webhp?hl=fr&dcr=0&sa=X&ved=0ahUKEwjooeHmzMvZAhUFcRQKHW_gBQwQPAgD
+  194  curl -I http://www.lemonde.fr/
+  195  curl -I http://www.latelierdupayssage.fr/testtest
+  196  curl -I https://www.lyon.fr/rtee
+  197  ls
+  198  installation-des-outils-php/
+  199  php -S localhost:8000
+  200  sudo apt install git
+  201  git --version
+  202  git config --global user.name "David Pellecuer"
+  203  git config --global user.email pellecuer.david@gmail.com
+  204  git config --list
+  205  git config --color.ui true
+  206  git config -list
+  207  git config --list
+  208  git config --global user.email pellecuer.david@gmail.com
+  209  git config --global color.ui true
+  210  cat bashrc
+  211  cat .bashrc
+  212  nano .bashrc
+  213  source ~/.bashrc
+  214  cd quetes
+  215  ls
+  216  cd quetes
+  217  cd quetes/
+  218  cd
+  219  cd /
+  220  cd quetes/
+  221  cd exos/
+  222  ls
+  223  cd /..
+  224  cd
+  225  cd /home
+  226  cd /quetes
+  227  ls
+  228  cd/
+  229  ls
+  230  cd /..
+  231  cd
+  232  cd /quetes
+  233  cd quetes
+  234  cd /quetes
+  235  ls
+  236  cd quetes
+  237  cd/quetes
+  238  cd /quetes/
+  239  cd /quetes
+  240  cd
+  241  cd /home
+  242  cd /quetes
+  243  ls
+  244  cd
+  245  cd /exos
+  246  ls
+  247  cat quetes
+  248  cd /Quetes
+  249  cat /Quetes
+  250  cd /exos
+  251  ls
+  252  nano /exos
+  253  cd home/exos
+  254  cd /exos
+  255  pwd
+  256  ls
+  257  cd /exos
+  258  Git
+  259  cd /Git
+  260  cd/Quetes
+  261  cd/exos
+  262  ls
+  263  exos
+  264  cd/
+  265  cd ..
+  266  cd --
+  267  cd ..
+  268  ls
+  269  cd
+  270  cd /Images
+  271  nano .bashrc
+  272  source ~/.bashrc
+  273  pwd
+  274  ls
+  275  cd exos/
+  276  cd /Quetes
+  277  cd
+  278  cd /Quetes
+  279  cd exos/
+  280  cd
+  281  cd Musique
+  282  cd
+  283  cd Quetes
+  284  ls
+  285  cd git
+  286  cd Git
+  287  git init
+  288  touch README.md
+  289  git add README.md
+  290  git status
+  291  touch toto.txt
+  292  git status
+  293  rm toto.txt
+  294  git commit -m "Message (log) obligatoire qui définit PRECISEMENT ce que contient ton commit."
+  295  git branch dev
+  296  git checkout dev
+  297  git branch
+  298  history > mon_historique.log
+  299  git branch
+  300  git status
+  301  ll
+  302  exos
+  303  cd exos
+  304  ls
+  305  ll
+  306  cd
+  307  ls
+  308  ll
+  309  git init
+  310  ll
+  311  cd Quetes
+  312  ll
+  313  cd Git/
+  314  ll
+  315  git status
+  316  git branch
+  317  git branch -m wcs dev
+  318  git branch
+  319  git branch -m dev wcs
+  320  git branch
+  321  git show
+  322  git show-branch
+  323  ls
+  324  mv README.md wild.php
+  325  ls
+  326  git add wild.php
+  327  git status
+  328  git commit -m  "A la Wild Code School on code en chaussette."
+  329  history > mon_historique.log
